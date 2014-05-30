@@ -1,0 +1,16 @@
+Vegas			http://vegas.jaysalvat.com/
+Font awesome		http://fontawesome.io/
+Scroll to top		http://webdesignerwall.com/tutorials/animated-scroll-to-top
+Smooth scroll		https://github.com/kswedberg/jquery-smooth-scroll
+Jquery Parallax		https://github.com/IanLunn/jQuery-Parallax
+			https://github.com/johnpolacek/scrollorama
+Form validator		https://github.com/nghuuphuoc/bootstrapvalidator
+Mixitup			http://mixitup.io/
+HOver Icon Effect	http://tympanus.net/codrops/2013/05/30/simple-icon-hover-effects/
+Social icons		http://www.bestpsdfreebies.com/freebie/20-social-media-badges/
+Photo			http://www.awwwards.com/awesome-high-resolution-photos-for-free.html
+			http://unsplash.com/
+			http://www.gratisography.com/
+Flat Icon		http://freebiesbug.com/psd-freebies/flatilicious-48-free-flat-icons/
+Flat Avatar		http://jozef89.deviantart.com/art/Flat-avatars-icons-411333178
+Countdown		http://trulycode.com/bytes/easy-countdown-to-date-with-javascript-jquery/

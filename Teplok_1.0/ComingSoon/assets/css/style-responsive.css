@@ -1,0 +1,24 @@
+@media (min-width: 1200px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+@media (min-width: 768px) and (max-width: 991px) {}
+
+@media (max-width: 767px) {}
+
+@media (max-width: 480px){
+	#countdown h1{
+		display: inline-block;
+		padding: 10px;
+		color: #fff;
+		font-size:24px;
+		font-weight: 300;
+	}
+	#countdown .social-icons img{
+	width: 25px;
+	margin: 2px;
+	}
+}
+
+@media (max-width: 360px){}
+@media (max-width: 320px){}
